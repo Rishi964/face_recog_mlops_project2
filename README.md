@@ -2,4 +2,4 @@
 
 For reference, complete article is :
 
-https://www.linkedin.com/pulse/replicaset-terraform-kubernetes-rishabh-khandelwal/
+https://www.linkedin.com/pulse/face-recognition-transfer-learning-rishabh-khandelwal/
